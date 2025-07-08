@@ -1,0 +1,4279 @@
+{
+  "infp_results": {
+    "leader_type": "INFP",
+    "team_size": 5,
+    "rounds": [
+      {
+        "round": 1,
+        "task_progress_before": 0.0,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.3695979241344043,
+            "type": "improvement",
+            "timestamp": 1
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.33653928616299733,
+            "type": "improvement",
+            "timestamp": 1
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.32604776943732616,
+            "type": "improvement",
+            "timestamp": 1
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5746370454492967,
+            "type": "improvement",
+            "timestamp": 1
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.6405116518888019,
+            "decision_time": 3.2,
+            "consensus_level": 0.55,
+            "timestamp": 1,
+            "context_factors": {
+              "round": 1,
+              "progress": 0.07327908863610302,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.557198610516812,
+          "2": 0.6171986105168119,
+          "3": 0.6171986105168119,
+          "4": 0.557198610516812
+        },
+        "trust_levels": {
+          "1": 0.55,
+          "2": 0.55,
+          "3": 0.55,
+          "4": 0.55
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [],
+        "task_progress_after": 0.09554783620451096
+      },
+      {
+        "round": 2,
+        "task_progress_before": 0.09554783620451096,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.3250387937575906,
+            "type": "improvement",
+            "timestamp": 2
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.22284076967790026,
+            "type": "improvement",
+            "timestamp": 2
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.5810909672576619,
+            "decision_time": 3.2,
+            "consensus_level": 0.6000000000000001,
+            "timestamp": 2,
+            "context_factors": {
+              "round": 2,
+              "progress": 0.09554783620451096,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.5418994824124821,
+          "2": 0.6258994824124821,
+          "3": 0.6258994824124821,
+          "4": 0.5418994824124821
+        },
+        "trust_levels": {
+          "1": 0.6000000000000001,
+          "2": 0.6000000000000001,
+          "3": 0.6000000000000001,
+          "4": 0.6000000000000001
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.17398825230819503,
+            "round": 2
+          }
+        ],
+        "task_progress_after": 0.10566687892087369
+      },
+      {
+        "round": 3,
+        "task_progress_before": 0.10566687892087369,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.18633986596284396,
+            "type": "improvement",
+            "timestamp": 3
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.23978599470230716,
+            "type": "improvement",
+            "timestamp": 3
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.4159272802875707,
+            "type": "improvement",
+            "timestamp": 3
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.6231539855714542,
+            "decision_time": 3.2,
+            "consensus_level": 0.6500000000000001,
+            "timestamp": 3,
+            "context_factors": {
+              "round": 3,
+              "progress": 0.10566687892087369,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.5397093687211306,
+          "2": 0.6333093687211306,
+          "3": 0.6333093687211306,
+          "4": 0.5397093687211306
+        },
+        "trust_levels": {
+          "1": 0.6500000000000001,
+          "2": 0.6500000000000001,
+          "3": 0.6500000000000001,
+          "4": 0.6500000000000001
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [
+          {
+            "type": "breakthrough",
+            "description": "获得突破性进展",
+            "impact": 0.12207218193601946,
+            "round": 3
+          }
+        ],
+        "task_progress_after": 0.1274976430896546
+      },
+      {
+        "round": 4,
+        "task_progress_before": 0.24956982502567407,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.41984503834134196,
+            "type": "improvement",
+            "timestamp": 4
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.5581399321550466,
+            "type": "improvement",
+            "timestamp": 4
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.3568977424529711,
+            "type": "improvement",
+            "timestamp": 4
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.680116203471202,
+            "decision_time": 3.2,
+            "consensus_level": 0.7000000000000002,
+            "timestamp": 4,
+            "context_factors": {
+              "round": 4,
+              "progress": 0.24956982502567407,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.6053624017568371,
+          "2": 0.7028024017568371,
+          "3": 0.7028024017568371,
+          "4": 0.6053624017568371
+        },
+        "trust_levels": {
+          "1": 0.7000000000000002,
+          "2": 0.7000000000000002,
+          "3": 0.7000000000000002,
+          "4": 0.7000000000000002
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [],
+        "task_progress_after": 0.27488141260213794
+      },
+      {
+        "round": 5,
+        "task_progress_before": 0.27488141260213794,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6877201450770261,
+            "type": "improvement",
+            "timestamp": 5
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.1967140452219973,
+            "type": "improvement",
+            "timestamp": 5
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.6663325642724268,
+            "decision_time": 3.2,
+            "consensus_level": 0.7500000000000002,
+            "timestamp": 5,
+            "context_factors": {
+              "round": 5,
+              "progress": 0.35729701830260524,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7999999999999999,
+          "1": 0.6511144316758902,
+          "2": 0.7500904316758902,
+          "3": 0.7500904316758902,
+          "4": 0.6511144316758902
+        },
+        "trust_levels": {
+          "1": 0.7500000000000002,
+          "2": 0.7500000000000002,
+          "3": 0.7500000000000002,
+          "4": 0.7500000000000002
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.3281806495771695,
+            "round": 5
+          }
+        ],
+        "task_progress_after": 0.3831637276286412
+      },
+      {
+        "round": 6,
+        "task_progress_before": 0.3831637276286412,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.31269312979357283,
+            "type": "improvement",
+            "timestamp": 6
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.47114841068006486,
+            "type": "improvement",
+            "timestamp": 6
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.36533172831136473,
+            "type": "improvement",
+            "timestamp": 6
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7061879951588753,
+            "decision_time": 3.2,
+            "consensus_level": 0.8000000000000003,
+            "timestamp": 6,
+            "context_factors": {
+              "round": 6,
+              "progress": 0.3831637276286412,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7999999999999999,
+          "1": 0.6342740788850876,
+          "2": 0.7338644788850875,
+          "3": 0.7338644788850875,
+          "4": 0.6342740788850876
+        },
+        "trust_levels": {
+          "1": 0.8000000000000003,
+          "2": 0.8000000000000003,
+          "3": 0.8000000000000003,
+          "4": 0.8000000000000003
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [],
+        "task_progress_after": 0.4101572567485084
+      },
+      {
+        "round": 7,
+        "task_progress_before": 0.4101572567485084,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.2750278801107961,
+            "type": "improvement",
+            "timestamp": 7
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.3210249286670318,
+            "type": "improvement",
+            "timestamp": 7
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5345958001860771,
+            "type": "improvement",
+            "timestamp": 7
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.724798645672293,
+            "decision_time": 3.2,
+            "consensus_level": 0.8500000000000003,
+            "timestamp": 7,
+            "context_factors": {
+              "round": 7,
+              "progress": 0.4101572567485084,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7999999999999999,
+          "1": 0.632519420194624,
+          "2": 0.732355580194624,
+          "3": 0.732355580194624,
+          "4": 0.632519420194624
+        },
+        "trust_levels": {
+          "1": 0.8500000000000003,
+          "2": 0.8500000000000003,
+          "3": 0.8500000000000003,
+          "4": 0.8500000000000003
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.0,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.0
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": -0.15153459288558835,
+            "round": 7
+          }
+        ],
+        "task_progress_after": 0.4378321591143834
+      },
+      {
+        "round": 8,
+        "task_progress_before": 0.4378321591143834,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6935666029679993,
+            "type": "improvement",
+            "timestamp": 8
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.2822157105227253,
+            "type": "improvement",
+            "timestamp": 8
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.46170760969663377,
+            "type": "improvement",
+            "timestamp": 8
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.29533230026269613,
+            "type": "improvement",
+            "timestamp": 8
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7899616667587542,
+            "decision_time": 3.2,
+            "consensus_level": 0.9000000000000004,
+            "timestamp": 8,
+            "context_factors": {
+              "round": 8,
+              "progress": 0.5280942873246103,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.6937748023333536,
+          "2": 0.7937092663333536,
+          "3": 0.7937092663333536,
+          "4": 0.6937748023333536
+        },
+        "trust_levels": {
+          "1": 0.9000000000000004,
+          "2": 0.9000000000000004,
+          "3": 0.9000000000000004,
+          "4": 0.9000000000000004
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        },
+        "random_events": [],
+        "task_progress_after": 0.5598168569750221
+      },
+      {
+        "round": 9,
+        "task_progress_before": 0.5598168569750221,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.42155162707393445,
+            "type": "improvement",
+            "timestamp": 9
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6395267227368003,
+            "type": "improvement",
+            "timestamp": 9
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.3575102148180565,
+            "type": "improvement",
+            "timestamp": 9
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7863941423471595,
+            "decision_time": 3.2,
+            "consensus_level": 0.9500000000000004,
+            "timestamp": 9,
+            "context_factors": {
+              "round": 9,
+              "progress": 0.5598168569750221,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.683907521211818,
+          "2": 0.7838813068118179,
+          "3": 0.7838813068118179,
+          "4": 0.683907521211818
+        },
+        "trust_levels": {
+          "1": 0.9500000000000004,
+          "2": 0.9500000000000004,
+          "3": 0.9500000000000004,
+          "4": 0.9500000000000004
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": -0.05164608725271791,
+            "round": 9
+          }
+        ],
+        "task_progress_after": 0.5910977793248692
+      },
+      {
+        "round": 10,
+        "task_progress_before": 0.5910977793248692,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.7350216025097378,
+            "type": "improvement",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.2750043396961042,
+            "type": "improvement",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.5898765644348152,
+            "type": "improvement",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.23410582866378385,
+            "type": "improvement",
+            "timestamp": 10
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8375506251478332,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 10,
+            "context_factors": {
+              "round": 10,
+              "progress": 0.5910977793248692,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.6859627452106649,
+          "2": 0.7859522594506647,
+          "3": 0.7859522594506647,
+          "4": 0.6859627452106649
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        },
+        "random_events": [],
+        "task_progress_after": 0.6244429818107649
+      },
+      {
+        "round": 11,
+        "task_progress_before": 0.6244429818107649,
+        "conflicts": [
+          {
+            "round": 11,
+            "parties": [
+              2,
+              3
+            ],
+            "intensity": 0.35912024885024085,
+            "responses": [
+              {
+                "agent_id": 2,
+                "response_type": "emotional",
+                "stress_increase": 0.17956012442512043,
+                "cooperation_willingness": 0.8204398755748796
+              },
+              {
+                "agent_id": 3,
+                "response_type": "emotional",
+                "stress_increase": 0.17956012442512043,
+                "cooperation_willingness": 0.8204398755748796
+              }
+            ],
+            "resolution": {
+              "leader_id": 0,
+              "resolution_time": 3.7182404977004815,
+              "effectiveness": 0.7845278506898554,
+              "approach": "mediation",
+              "conflict_parties": [
+                2,
+                3
+              ],
+              "conflict_intensity": 0.35912024885024085
+            },
+            "new_conflict_level": 0.0
+          }
+        ],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6352509421048376,
+            "type": "improvement",
+            "timestamp": 11
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.40503932589525576,
+            "type": "improvement",
+            "timestamp": 11
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7780217701000071,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 11,
+            "context_factors": {
+              "round": 11,
+              "progress": 0.6244429818107649,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.6921663228345606,
+          "2": 0.7921621285305604,
+          "3": 0.7921621285305604,
+          "4": 0.6921663228345606
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0.17956012442512043,
+          "3": 0.17956012442512043,
+          "4": 0
+        },
+        "random_events": [],
+        "task_progress_after": 0.6543401375016367
+      },
+      {
+        "round": 12,
+        "task_progress_before": 0.6543401375016367,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.671711957852734,
+            "type": "improvement",
+            "timestamp": 12
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.49989933538202147,
+            "type": "improvement",
+            "timestamp": 12
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.23774922273364724,
+            "type": "improvement",
+            "timestamp": 12
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.9281759502299518,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.9281759502299518,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8057020386976302,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 12,
+            "context_factors": {
+              "round": 12,
+              "progress": 0.6543401375016367,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.7001667032982966,
+          "2": 0.8001650255766964,
+          "3": 0.8001650255766964,
+          "4": 0.7001667032982966
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0.17956012442512043,
+          "3": 0.17956012442512043,
+          "4": 0
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.29027138766552396,
+            "round": 12
+          }
+        ],
+        "task_progress_after": 0.6850009675804016
+      },
+      {
+        "round": 13,
+        "task_progress_before": 0.6850009675804016,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.8107069109195306,
+            "type": "improvement",
+            "timestamp": 13
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.430130399736444,
+            "type": "improvement",
+            "timestamp": 13
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.5748708799509106,
+            "type": "improvement",
+            "timestamp": 13
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5225048404288505,
+            "type": "improvement",
+            "timestamp": 13
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.9281759502299518,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.9281759502299518,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.9468260764251112,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8753659773276803,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 13,
+            "context_factors": {
+              "round": 13,
+              "progress": 0.7683566214409104,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7645272633241572,
+          "2": 0.8645265922355172,
+          "3": 0.8645265922355172,
+          "4": 0.7645272633241572
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0.17956012442512043,
+          "3": 0.17956012442512043,
+          "4": 0.13293480893722193
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.20939545459817682,
+            "round": 13
+          }
+        ],
+        "task_progress_after": 0.80255878891577
+      },
+      {
+        "round": 14,
+        "task_progress_before": 0.80255878891577,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.7192802311583847,
+            "type": "improvement",
+            "timestamp": 14
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.7547384974621311,
+            "type": "improvement",
+            "timestamp": 14
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.2658068558322257,
+            "type": "improvement",
+            "timestamp": 14
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.9366141037798666,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.9366141037798666,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.955264229975026,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8304869188339556,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 14,
+            "context_factors": {
+              "round": 14,
+              "progress": 0.80255878891577,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7559967267235117,
+          "2": 0.8559964582880557,
+          "3": 0.8559964582880557,
+          "4": 0.7559967267235117
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0.1584647405503335,
+          "3": 0.1584647405503335,
+          "4": 0.111839425062435
+        },
+        "random_events": [],
+        "task_progress_after": 0.8343656744102712
+      },
+      {
+        "round": 15,
+        "task_progress_before": 0.8343656744102712,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.49495835534898797,
+            "type": "improvement",
+            "timestamp": 15
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.6317148657714404,
+            "type": "improvement",
+            "timestamp": 15
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6942331373933935,
+            "type": "improvement",
+            "timestamp": 15
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 1.0,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.9366141037798666,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.9366141037798666,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.955264229975026,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8365679768885367,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 15,
+            "context_factors": {
+              "round": 15,
+              "progress": 0.8343656744102712,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.758268375294763,
+          "2": 0.8582682679205806,
+          "3": 0.8582682679205806,
+          "4": 0.758268375294763
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0,
+          "1": 0,
+          "2": 0.1584647405503335,
+          "3": 0.1584647405503335,
+          "4": 0.111839425062435
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": 0.1866633187201805,
+            "round": 15
+          },
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.25282170265841125,
+            "round": 15
+          }
+        ],
+        "task_progress_after": 0.8659426922519909
+      },
+      {
+        "round": 16,
+        "task_progress_before": 0.8659426922519909,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.4811697427239807,
+            "type": "improvement",
+            "timestamp": 16
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6757594146287893,
+            "type": "improvement",
+            "timestamp": 16
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.633794940692117,
+            "type": "improvement",
+            "timestamp": 16
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.9253346725119278,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8084717185890105,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 16,
+            "context_factors": {
+              "round": 16,
+              "progress": 0.8659426922519909,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7642785338495611,
+          "2": 0.8642784908998882,
+          "3": 0.8642784908998882,
+          "4": 0.7642785338495611
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.1866633187201805,
+          "2": 0.345128059270514,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [],
+        "task_progress_after": 0.8942843540647554
+      },
+      {
+        "round": 17,
+        "task_progress_before": 0.8942843540647554,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 3,
+            "quality": 0.6084750528959201,
+            "type": "improvement",
+            "timestamp": 17
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5974245882229158,
+            "type": "improvement",
+            "timestamp": 17
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.9253346725119278,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7498649348619877,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 17,
+            "context_factors": {
+              "round": 17,
+              "progress": 0.8942843540647554,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7713716198911151,
+          "2": 0.8713716027112459,
+          "3": 0.8713716027112459,
+          "4": 0.7713716198911151
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.1866633187201805,
+          "2": 0.345128059270514,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [],
+        "task_progress_after": 0.9203344797293926
+      },
+      {
+        "round": 18,
+        "task_progress_before": 0.9203344797293926,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6981712034710176,
+            "type": "improvement",
+            "timestamp": 18
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.30127581347231375,
+            "type": "improvement",
+            "timestamp": 18
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.3385449295929406,
+            "type": "improvement",
+            "timestamp": 18
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.9253346725119278,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7435552562509588,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 18,
+            "context_factors": {
+              "round": 18,
+              "progress": 0.9203344797293926,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7788189112147941,
+          "2": 0.8788189043428465,
+          "3": 0.8788189043428465,
+          "4": 0.7788189112147941
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.1866633187201805,
+          "2": 0.345128059270514,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [],
+        "task_progress_after": 0.9459459069908225
+      },
+      {
+        "round": 19,
+        "task_progress_before": 0.9459459069908225,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.25114110854688104,
+            "type": "improvement",
+            "timestamp": 19
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.35323155410412205,
+            "type": "improvement",
+            "timestamp": 19
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.38121286870634413,
+            "type": "improvement",
+            "timestamp": 19
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.9253346725119278,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8150369494695078,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7034188890025288,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 19,
+            "context_factors": {
+              "round": 19,
+              "progress": 0.9459459069908225,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7860878031132035,
+          "2": 0.8860878003644244,
+          "3": 0.8860878003644244,
+          "4": 0.7860878031132035
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.1866633187201805,
+          "2": 0.46240762632623067,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [
+          {
+            "type": "member_fatigue",
+            "description": "成员Member_1出现疲劳",
+            "impact": 0.255684081353465,
+            "affected_member": 1,
+            "round": 19
+          }
+        ],
+        "task_progress_after": 0.9697791034849209
+      },
+      {
+        "round": 20,
+        "task_progress_before": 0.9697791034849209,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.2664787523668722,
+            "type": "improvement",
+            "timestamp": 20
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.5384407636994665,
+            "type": "improvement",
+            "timestamp": 20
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.33823326296516765,
+            "type": "improvement",
+            "timestamp": 20
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.8741978562412348,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8150369494695078,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.6987629632422186,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 20,
+            "context_factors": {
+              "round": 20,
+              "progress": 0.9697791034849209,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7931843143703196,
+          "2": 0.8931843132708079,
+          "3": 0.8931843132708079,
+          "4": 0.7931843143703196
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.314505359396913,
+          "2": 0.46240762632623067,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [],
+        "task_progress_after": 0.9930510729168791
+      },
+      {
+        "round": 21,
+        "task_progress_before": 0.9930510729168791,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6717744969730648,
+            "type": "improvement",
+            "timestamp": 21
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.317533008574204,
+            "type": "improvement",
+            "timestamp": 21
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6422017984135029,
+            "type": "improvement",
+            "timestamp": 21
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.3475943607961165,
+            "type": "improvement",
+            "timestamp": 21
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.8741978562412348,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.8150369494695078,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8619487762917943,
+            "tone": "encouraging",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.8805989024869538,
+            "tone": "encouraging",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7384076558502668,
+            "decision_time": 3.2,
+            "consensus_level": 1.0,
+            "timestamp": 21,
+            "context_factors": {
+              "round": 21,
+              "progress": 0.9930510729168791,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.9999999999999999,
+          "1": 0.7972737257481278,
+          "2": 0.8972737253083232,
+          "3": 0.8972737253083232,
+          "4": 0.7972737257481278
+        },
+        "trust_levels": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.1866633187201805,
+          "1": 0.314505359396913,
+          "2": 0.46240762632623067,
+          "3": 0.345128059270514,
+          "4": 0.2985027437826155
+        },
+        "random_events": [],
+        "task_progress_after": 1.0
+      }
+    ],
+    "final_metrics": {
+      "task_efficiency": 0.047619047619047616,
+      "rework_ratio": 0.0,
+      "avg_satisfaction": 0.7696963744531191,
+      "satisfaction_trend": [
+        0.5897588884134495,
+        0.5871195859299856,
+        0.5892074949769046,
+        0.6632659214054696,
+        0.7204819453407122,
+        0.7072554231080701,
+        0.7059500001556993,
+        0.774993627466683,
+        0.7671155312094543,
+        0.7687660018645317,
+        0.7737313805460485,
+        0.7801326915499972,
+        0.8516215422238698,
+        0.844797274004627,
+        0.8466146572861375,
+        0.8514228098997798,
+        0.8570972890409443,
+        0.8630551262230561,
+        0.8688702413910511,
+        0.8745474510564509,
+        0.8778189804225803
+      ],
+      "conflict_count": 1,
+      "avg_conflict_intensity": 0.35912024885024085,
+      "total_ideas": 64,
+      "avg_idea_quality": 0.45738071957452103,
+      "adoption_rate": 0.75,
+      "leader_influence": 1.0,
+      "team_cohesion": 0.8642137927508738
+    },
+    "task_completion": {
+      "progress": 1.0,
+      "quality": 0.7439144590844005,
+      "revisions_needed": 0,
+      "completion_round": 21
+    }
+  },
+  "estp_results": {
+    "leader_type": "ESTP",
+    "team_size": 5,
+    "rounds": [
+      {
+        "round": 1,
+        "task_progress_before": 0.0,
+        "conflicts": [
+          {
+            "round": 1,
+            "parties": [
+              1,
+              4
+            ],
+            "intensity": 0.3196164094175198,
+            "responses": [
+              {
+                "agent_id": 1,
+                "response_type": "emotional",
+                "stress_increase": 0.1598082047087599,
+                "cooperation_willingness": 0.8401917952912401
+              },
+              {
+                "agent_id": 4,
+                "response_type": "analytical",
+                "stress_increase": 0.09588492282525593,
+                "cooperation_willingness": 0.904115077174744
+              }
+            ],
+            "resolution": {
+              "leader_id": 0,
+              "resolution_time": 0.5,
+              "effectiveness": 0.904115077174744,
+              "approach": "authoritative",
+              "conflict_parties": [
+                1,
+                4
+              ],
+              "conflict_intensity": 0.3196164094175198
+            },
+            "new_conflict_level": 0.0
+          }
+        ],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6093453407230746,
+            "type": "innovation",
+            "timestamp": 1
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.7136915898087256,
+            "type": "innovation",
+            "timestamp": 1
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.2288817612420311,
+            "type": "improvement",
+            "timestamp": 1
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7233333333333334,
+            "decision_time": 0.5061140051960997,
+            "consensus_level": 0.5287731002442236,
+            "timestamp": 1,
+            "context_factors": {
+              "round": 1,
+              "progress": 0.0,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.5,
+          "1": 0.6241304527301326,
+          "2": 0.6241304527301326,
+          "3": 0.5641304527301325,
+          "4": 0.6841304527301326
+        },
+        "trust_levels": {
+          "1": 0.5227895362533388,
+          "2": 0.5265138069362016,
+          "3": 0.5328328308393703,
+          "4": 0.532956226947984
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.1598082047087599,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.09588492282525593
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.30983949137384525,
+            "round": 1
+          }
+        ],
+        "task_progress_after": 0.02294695961184758
+      },
+      {
+        "round": 2,
+        "task_progress_before": 0.02294695961184758,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.21501761374538275,
+            "type": "innovation",
+            "timestamp": 2
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.45046220743364235,
+            "type": "improvement",
+            "timestamp": 2
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.7285024234356146,
+            "decision_time": 0.7145044115148405,
+            "consensus_level": 0.5575462004884473,
+            "timestamp": 2,
+            "context_factors": {
+              "round": 2,
+              "progress": 0.02294695961184758,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.5,
+          "1": 0.6781948513105533,
+          "2": 0.6781948513105533,
+          "3": 0.5941948513105534,
+          "4": 0.7621948513105534
+        },
+        "trust_levels": {
+          "1": 0.5455790725066776,
+          "2": 0.5530276138724033,
+          "3": 0.5656656616787406,
+          "4": 0.5659124538959679
+        },
+        "stress_levels": {
+          "0": 0.0,
+          "1": 0.1598082047087599,
+          "2": 0.0,
+          "3": 0.0,
+          "4": 0.09588492282525593
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.3317442654853673,
+            "round": 2
+          }
+        ],
+        "task_progress_after": 0.04745927899166855
+      },
+      {
+        "round": 3,
+        "task_progress_before": 0.04745927899166855,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.4547519016144511,
+            "type": "innovation",
+            "timestamp": 3
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.6230299235954662,
+            "type": "innovation",
+            "timestamp": 3
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5705120982783862,
+            "type": "improvement",
+            "timestamp": 3
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8213733950465343,
+            "decision_time": 0.7486121933007375,
+            "consensus_level": 0.586319300732671,
+            "timestamp": 3,
+            "context_factors": {
+              "round": 3,
+              "progress": 0.04745927899166855,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.5,
+          "1": 0.7042915097130102,
+          "2": 0.7042915097130102,
+          "3": 0.6106915097130103,
+          "4": 0.7978915097130104
+        },
+        "trust_levels": {
+          "1": 0.5683686087600164,
+          "2": 0.5795414208086049,
+          "3": 0.5984984925181108,
+          "4": 0.5988686808439518
+        },
+        "stress_levels": {
+          "0": 0.29192217575733564,
+          "1": 0.45173038046609554,
+          "2": 0.29192217575733564,
+          "3": 0.29192217575733564,
+          "4": 0.38780709858259155
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.34245976564202685,
+            "round": 3
+          }
+        ],
+        "task_progress_after": 0.07229760660438354
+      },
+      {
+        "round": 4,
+        "task_progress_before": 0.07229760660438354,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.6507181477614512,
+            "type": "innovation",
+            "timestamp": 4
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.3813940067615234,
+            "type": "improvement",
+            "timestamp": 4
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8266937945888848,
+            "decision_time": 0.5086099993310269,
+            "consensus_level": 0.6150924009768947,
+            "timestamp": 4,
+            "context_factors": {
+              "round": 4,
+              "progress": 0.07229760660438354,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.5,
+          "1": 0.7192905296494769,
+          "2": 0.7192905296494769,
+          "3": 0.621850529649477,
+          "4": 0.8167305296494769
+        },
+        "trust_levels": {
+          "1": 0.5911581450133552,
+          "2": 0.6060552277448066,
+          "3": 0.6313313233574811,
+          "4": 0.6318249077919358
+        },
+        "stress_levels": {
+          "0": 0.29192217575733564,
+          "1": 0.45173038046609554,
+          "2": 0.29192217575733564,
+          "3": 0.29192217575733564,
+          "4": 0.38780709858259155
+        },
+        "random_events": [],
+        "task_progress_after": 0.09763292091262697
+      },
+      {
+        "round": 5,
+        "task_progress_before": 0.09763292091262697,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.637012874549469,
+            "type": "innovation",
+            "timestamp": 5
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.579054995414901,
+            "type": "innovation",
+            "timestamp": 5
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.5736889031004405,
+            "type": "improvement",
+            "timestamp": 5
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.3034386215612335,
+            "type": "improvement",
+            "timestamp": 5
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8418145503797112,
+            "decision_time": 0.5918618090390265,
+            "consensus_level": 0.6438655012211183,
+            "timestamp": 5,
+            "context_factors": {
+              "round": 5,
+              "progress": 0.21964038732304642,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.7922134701795922,
+          "2": 0.7922134701795922,
+          "3": 0.6932374701795921,
+          "4": 0.8911894701795922
+        },
+        "trust_levels": {
+          "1": 0.613947681266694,
+          "2": 0.6325690346810082,
+          "3": 0.6641641541968514,
+          "4": 0.6647811347399197
+        },
+        "stress_levels": {
+          "0": 0.29192217575733564,
+          "1": 0.45173038046609554,
+          "2": 0.29192217575733564,
+          "3": 0.29192217575733564,
+          "4": 0.38780709858259155
+        },
+        "random_events": [],
+        "task_progress_after": 0.24720699066556345
+      },
+      {
+        "round": 6,
+        "task_progress_before": 0.24720699066556345,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.33622899447296656,
+            "type": "innovation",
+            "timestamp": 6
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.5222601231771373,
+            "type": "improvement",
+            "timestamp": 6
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8473532119804459,
+            "decision_time": 0.5848996109824866,
+            "consensus_level": 0.672638601465342,
+            "timestamp": 6,
+            "context_factors": {
+              "round": 6,
+              "progress": 0.24720699066556345,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.7863130178721978,
+          "2": 0.7863130178721978,
+          "3": 0.6867226178721977,
+          "4": 0.8859034178721977
+        },
+        "trust_levels": {
+          "1": 0.6367372175200328,
+          "2": 0.6590828416172099,
+          "3": 0.6969969850362217,
+          "4": 0.6977373616879037
+        },
+        "stress_levels": {
+          "0": 0.29192217575733564,
+          "1": 0.45173038046609554,
+          "2": 0.29192217575733564,
+          "3": 0.29192217575733564,
+          "4": 0.38780709858259155
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.10424451017681916,
+            "round": 6
+          }
+        ],
+        "task_progress_after": 0.27459794333533805
+      },
+      {
+        "round": 7,
+        "task_progress_before": 0.27459794333533805,
+        "conflicts": [
+          {
+            "round": 7,
+            "parties": [
+              4,
+              1
+            ],
+            "intensity": 0.6932693871796582,
+            "responses": [
+              {
+                "agent_id": 4,
+                "response_type": "analytical",
+                "stress_increase": 0.20798081615389746,
+                "cooperation_willingness": 0.40421208526351093
+              },
+              {
+                "agent_id": 1,
+                "response_type": "emotional",
+                "stress_increase": 0.3466346935898291,
+                "cooperation_willingness": 0.20163492594407528
+              }
+            ],
+            "resolution": {
+              "leader_id": 0,
+              "resolution_time": 0.5,
+              "effectiveness": 0.7920191838461025,
+              "approach": "authoritative",
+              "conflict_parties": [
+                4,
+                1
+              ],
+              "conflict_intensity": 0.6932693871796582
+            },
+            "new_conflict_level": 0.0
+          }
+        ],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.6830843077360369,
+            "type": "innovation",
+            "timestamp": 7
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.4108221561769102,
+            "type": "improvement",
+            "timestamp": 7
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.2790988205195617,
+            "type": "improvement",
+            "timestamp": 7
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8528778215273611,
+            "decision_time": 0.6202122326755819,
+            "consensus_level": 0.7014117017095657,
+            "timestamp": 7,
+            "context_factors": {
+              "round": 7,
+              "progress": 0.27459794333533805,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.7886669175631351,
+          "2": 0.7886669175631351,
+          "3": 0.6888307575631352,
+          "4": 0.8885030775631351
+        },
+        "trust_levels": {
+          "1": 0.6595267537733716,
+          "2": 0.6855966485534115,
+          "3": 0.7298298158755919,
+          "4": 0.7306935886358876
+        },
+        "stress_levels": {
+          "0": 0.29192217575733564,
+          "1": 0.7983650740559247,
+          "2": 0.29192217575733564,
+          "3": 0.29192217575733564,
+          "4": 0.5957879147364891
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": 0.0814197985422821,
+            "round": 7
+          },
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.3981754368130661,
+            "round": 7
+          }
+        ],
+        "task_progress_after": 0.3007872800792003
+      },
+      {
+        "round": 8,
+        "task_progress_before": 0.3007872800792003,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.4581975099339245,
+            "type": "innovation",
+            "timestamp": 8
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.48446367297171194,
+            "type": "improvement",
+            "timestamp": 8
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.882732241362888,
+            "decision_time": 0.7220267916453635,
+            "consensus_level": 0.7301848019537893,
+            "timestamp": 8,
+            "context_factors": {
+              "round": 8,
+              "progress": 0.3007872800792003,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.7943190392127761,
+          "2": 0.7943190392127761,
+          "3": 0.6943845752127762,
+          "4": 0.8942535032127761
+        },
+        "trust_levels": {
+          "1": 0.6823162900267103,
+          "2": 0.7121104554896132,
+          "3": 0.7626626467149622,
+          "4": 0.7636498155838716
+        },
+        "stress_levels": {
+          "0": 0.37334197429961774,
+          "1": 0.8797848725982068,
+          "2": 0.37334197429961774,
+          "3": 0.37334197429961774,
+          "4": 0.6772077132787712
+        },
+        "random_events": [],
+        "task_progress_after": 0.3269570677084563
+      },
+      {
+        "round": 9,
+        "task_progress_before": 0.3269570677084563,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6028058497587153,
+            "type": "innovation",
+            "timestamp": 9
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.47272997335469097,
+            "type": "innovation",
+            "timestamp": 9
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6361186852958766,
+            "type": "improvement",
+            "timestamp": 9
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8285605160969949,
+            "decision_time": 0.6983549128560104,
+            "consensus_level": 0.758957902198013,
+            "timestamp": 9,
+            "context_factors": {
+              "round": 9,
+              "progress": 0.3269570677084563,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.6,
+          "1": 0.8014110386065934,
+          "2": 0.8014110386065934,
+          "3": 0.7014372530065933,
+          "4": 0.9013848242065932
+        },
+        "trust_levels": {
+          "1": 0.7051058262800491,
+          "2": 0.7386242624258148,
+          "3": 0.7954954775543325,
+          "4": 0.7966060425318555
+        },
+        "stress_levels": {
+          "0": 0.1746798356010606,
+          "1": 0.6811227338996497,
+          "2": 0.1746798356010606,
+          "3": 0.1746798356010606,
+          "4": 0.478545574580214
+        },
+        "random_events": [
+          {
+            "type": "breakthrough",
+            "description": "获得突破性进展",
+            "impact": 0.06659227892207246,
+            "round": 9
+          }
+        ],
+        "task_progress_after": 0.353796794008238
+      },
+      {
+        "round": 10,
+        "task_progress_before": 0.42038907293031047,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6380490059052238,
+            "type": "innovation",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.7905105822141836,
+            "type": "innovation",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.4725414458431807,
+            "type": "improvement",
+            "timestamp": 10
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.2390687574313121,
+            "type": "improvement",
+            "timestamp": 10
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8393684098480765,
+            "decision_time": 0.59669647500749,
+            "consensus_level": 0.7877310024422366,
+            "timestamp": 10,
+            "context_factors": {
+              "round": 10,
+              "progress": 0.42038907293031047,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8614058295943134,
+          "2": 0.8614058295943134,
+          "3": 0.7614163153543134,
+          "4": 0.960841414151676
+        },
+        "trust_levels": {
+          "1": 0.7278953625333879,
+          "2": 0.7651380693620164,
+          "3": 0.8283283083937028,
+          "4": 0.8295622694798395
+        },
+        "stress_levels": {
+          "0": 0.1746798356010606,
+          "1": 0.6811227338996497,
+          "2": 0.1746798356010606,
+          "3": 0.1746798356010606,
+          "4": 0.478545574580214
+        },
+        "random_events": [],
+        "task_progress_after": 0.4491189675093114
+      },
+      {
+        "round": 11,
+        "task_progress_before": 0.4491189675093114,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.5643667442607969,
+            "type": "innovation",
+            "timestamp": 11
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.4542183936138803,
+            "type": "improvement",
+            "timestamp": 11
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.38169024563908016,
+            "type": "improvement",
+            "timestamp": 11
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8450001347477298,
+            "decision_time": 0.7010400528563556,
+            "consensus_level": 0.8165041026864603,
+            "timestamp": 11,
+            "context_factors": {
+              "round": 11,
+              "progress": 0.4491189675093114,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8505200307621095,
+          "2": 0.8505200307621095,
+          "3": 0.7505242250661095,
+          "4": 0.9502942645850545
+        },
+        "trust_levels": {
+          "1": 0.7506848987867267,
+          "2": 0.7916518762982181,
+          "3": 0.861161139233073,
+          "4": 0.8625184964278234
+        },
+        "stress_levels": {
+          "0": 0.1746798356010606,
+          "1": 0.6811227338996497,
+          "2": 0.1746798356010606,
+          "3": 0.1746798356010606,
+          "4": 0.478545574580214
+        },
+        "random_events": [],
+        "task_progress_after": 0.47754277180213406
+      },
+      {
+        "round": 12,
+        "task_progress_before": 0.47754277180213406,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.7829476097240697,
+            "type": "innovation",
+            "timestamp": 12
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.5432346700903651,
+            "type": "innovation",
+            "timestamp": 12
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.3064724080393557,
+            "type": "improvement",
+            "timestamp": 12
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.5871192395454445,
+            "type": "improvement",
+            "timestamp": 12
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.850607372424489,
+            "decision_time": 0.7279971608183051,
+            "consensus_level": 0.845277202930684,
+            "timestamp": 12,
+            "context_factors": {
+              "round": 12,
+              "progress": 0.47754277180213406,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8512885921083273,
+          "2": 0.8512885921083273,
+          "3": 0.7512902698299273,
+          "4": 0.9511982856375053
+        },
+        "trust_levels": {
+          "1": 0.7734744350400655,
+          "2": 0.8181656832344197,
+          "3": 0.8939939700724433,
+          "4": 0.8954747233758074
+        },
+        "stress_levels": {
+          "0": 0.1746798356010606,
+          "1": 0.6811227338996497,
+          "2": 0.1746798356010606,
+          "3": 0.1746798356010606,
+          "4": 0.478545574580214
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.39194404474650835,
+            "round": 12
+          }
+        ],
+        "task_progress_after": 0.5060032211304643
+      },
+      {
+        "round": 13,
+        "task_progress_before": 0.5060032211304643,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.6460369738559828,
+            "type": "innovation",
+            "timestamp": 13
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.3532976368621149,
+            "type": "improvement",
+            "timestamp": 13
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8788433927544893,
+            "decision_time": 0.5731192718225415,
+            "consensus_level": 0.8740503031749076,
+            "timestamp": 13,
+            "context_factors": {
+              "round": 13,
+              "progress": 0.5060032211304643,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8566959941335892,
+          "2": 0.8566959941335892,
+          "3": 0.7566966652222291,
+          "4": 0.9566598715452603
+        },
+        "trust_levels": {
+          "1": 0.7962639712934043,
+          "2": 0.8446794901706214,
+          "3": 0.9268268009118136,
+          "4": 0.9284309503237913
+        },
+        "stress_levels": {
+          "0": 0.25009933910239557,
+          "1": 0.852687026818863,
+          "2": 0.25009933910239557,
+          "3": 0.25009933910239557,
+          "4": 0.553965078081549
+        },
+        "random_events": [],
+        "task_progress_after": 0.5343364293903237
+      },
+      {
+        "round": 14,
+        "task_progress_before": 0.5343364293903237,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.7016520441701593,
+            "type": "innovation",
+            "timestamp": 14
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.4142622554800031,
+            "type": "innovation",
+            "timestamp": 14
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.7279652056920144,
+            "type": "improvement",
+            "timestamp": 14
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.29325953546647826,
+            "type": "improvement",
+            "timestamp": 14
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.8844433827486113,
+            "decision_time": 0.6035371825079022,
+            "consensus_level": 0.9028234034191314,
+            "timestamp": 14,
+            "context_factors": {
+              "round": 14,
+              "progress": 0.5343364293903237,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8640008341041301,
+          "2": 0.8640008341041301,
+          "3": 0.7640011025395861,
+          "4": 0.9639863850687986
+        },
+        "trust_levels": {
+          "1": 0.8190535075467431,
+          "2": 0.871193297106823,
+          "3": 0.9596596317511839,
+          "4": 0.9613871772717753
+        },
+        "stress_levels": {
+          "0": 0.25009933910239557,
+          "1": 0.852687026818863,
+          "2": 0.25009933910239557,
+          "3": 0.25009933910239557,
+          "4": 0.553965078081549
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": 0.14874921381028566,
+            "round": 14
+          }
+        ],
+        "task_progress_after": 0.5629024247260805
+      },
+      {
+        "round": 15,
+        "task_progress_before": 0.5629024247260805,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 4,
+            "quality": 0.23984983742293015,
+            "type": "improvement",
+            "timestamp": 15
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.9863925325866703,
+            "decision_time": 0.6770541287928701,
+            "consensus_level": 0.931596503663355,
+            "timestamp": 15,
+            "context_factors": {
+              "round": 15,
+              "progress": 0.5629024247260805,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8720409153512854,
+          "2": 0.8720409153512854,
+          "3": 0.7720410227254677,
+          "4": 0.9720351357371526
+        },
+        "trust_levels": {
+          "1": 0.8418430438000819,
+          "2": 0.8977071040430247,
+          "3": 0.9924924625905541,
+          "4": 0.9943434042197592
+        },
+        "stress_levels": {
+          "0": 0.5712011286952792,
+          "1": 1,
+          "2": 0.5712011286952792,
+          "3": 0.5712011286952792,
+          "4": 0.8750668676744326
+        },
+        "random_events": [],
+        "task_progress_after": 0.5913365650535183
+      },
+      {
+        "round": 16,
+        "task_progress_before": 0.5913365650535183,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.8000562205393755,
+            "type": "innovation",
+            "timestamp": 16
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.6522347555870764,
+            "type": "innovation",
+            "timestamp": 16
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.9920005971461986,
+            "decision_time": 0.75780265525048,
+            "consensus_level": 0.9472133727581618,
+            "timestamp": 16,
+            "context_factors": {
+              "round": 16,
+              "progress": 0.5913365650535183,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7,
+          "1": 0.8803987224365872,
+          "2": 0.8803987224365872,
+          "3": 0.7803987653862601,
+          "4": 0.9803964105909341
+        },
+        "trust_levels": {
+          "1": 0.8646325800534207,
+          "2": 0.9242209109792263,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.5712011286952792,
+          "1": 1,
+          "2": 0.5712011286952792,
+          "3": 0.5712011286952792,
+          "4": 0.8750668676744326
+        },
+        "random_events": [
+          {
+            "type": "breakthrough",
+            "description": "获得突破性进展",
+            "impact": 0.056842074718155146,
+            "round": 16
+          }
+        ],
+        "task_progress_after": 0.6199019794226285
+      },
+      {
+        "round": 17,
+        "task_progress_before": 0.6767440541407836,
+        "conflicts": [
+          {
+            "round": 17,
+            "parties": [
+              1,
+              2
+            ],
+            "intensity": 0.4150780053802181,
+            "responses": [
+              {
+                "agent_id": 1,
+                "response_type": "emotional",
+                "stress_increase": 0.20753900269010905,
+                "cooperation_willingness": 0
+              },
+              {
+                "agent_id": 2,
+                "response_type": "emotional",
+                "stress_increase": 0.20753900269010905,
+                "cooperation_willingness": 0.22125986861461178
+              }
+            ],
+            "resolution": {
+              "leader_id": 0,
+              "resolution_time": 0.5,
+              "effectiveness": 0.8754765983859345,
+              "approach": "authoritative",
+              "conflict_parties": [
+                1,
+                2
+              ],
+              "conflict_intensity": 0.4150780053802181
+            },
+            "new_conflict_level": 0.0
+          }
+        ],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.3229698884110746,
+            "type": "innovation",
+            "timestamp": 17
+          },
+          {
+            "agent_id": 2,
+            "quality": 0.8092946743022015,
+            "type": "innovation",
+            "timestamp": 17
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.6307967352633005,
+            "type": "improvement",
+            "timestamp": 17
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 1.0,
+            "decision_time": 0.62920603635662,
+            "consensus_level": 0.9595392085555469,
+            "timestamp": 17,
+            "context_factors": {
+              "round": 17,
+              "progress": 0.6767440541407836,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7999999999999999,
+          "1": 0.9392985582457316,
+          "2": 0.9392985582457316,
+          "3": 0.8392985754256008,
+          "4": 1
+        },
+        "trust_levels": {
+          "1": 0.8874221163067595,
+          "2": 0.950734717915428,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.5712011286952792,
+          "1": 1,
+          "2": 0.7787401313853882,
+          "3": 0.5712011286952792,
+          "4": 0.8750668676744326
+        },
+        "random_events": [
+          {
+            "type": "pressure_change",
+            "description": "外部压力变化",
+            "impact": -0.11246532246854773,
+            "round": 17
+          }
+        ],
+        "task_progress_after": 0.7063281626172042
+      },
+      {
+        "round": 18,
+        "task_progress_before": 0.7063281626172042,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.6486207007834596,
+            "type": "innovation",
+            "timestamp": 18
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.38476444917978686,
+            "type": "improvement",
+            "timestamp": 18
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.2653907827537617,
+            "type": "improvement",
+            "timestamp": 18
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.9741269948773958,
+            "decision_time": 0.7962955085655414,
+            "consensus_level": 0.971865044352932,
+            "timestamp": 18,
+            "context_factors": {
+              "round": 18,
+              "progress": 0.7063281626172042,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.7999999999999999,
+          "1": 0.9281816086679617,
+          "2": 0.9281816086679617,
+          "3": 0.8281816155399095,
+          "4": 1
+        },
+        "trust_levels": {
+          "1": 0.9102116525600983,
+          "2": 0.9772485248516296,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.45873580622673144,
+          "1": 0.8875346775314523,
+          "2": 0.6662748089168404,
+          "3": 0.45873580622673144,
+          "4": 0.762601545205885
+        },
+        "random_events": [
+          {
+            "type": "technical_challenge",
+            "description": "技术难题出现",
+            "impact": 0.3998120696500538,
+            "round": 18
+          }
+        ],
+        "task_progress_after": 0.7359010298314955
+      },
+      {
+        "round": 19,
+        "task_progress_before": 0.7359010298314955,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 1,
+            "quality": 0.2718042901524124,
+            "type": "innovation",
+            "timestamp": 19
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.9904664580798153,
+            "decision_time": 0.723551646240191,
+            "consensus_level": 0.9832502972033592,
+            "timestamp": 19,
+            "context_factors": {
+              "round": 19,
+              "progress": 0.8689047859807799,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.9819549531582638,
+          "2": 0.9819549531582638,
+          "3": 0.8932275993742276,
+          "4": 1
+        },
+        "trust_levels": {
+          "1": 0.9330011888134371,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.45873580622673144,
+          "1": 0.8875346775314523,
+          "2": 0.6662748089168404,
+          "3": 0.45873580622673144,
+          "4": 0.762601545205885
+        },
+        "random_events": [],
+        "task_progress_after": 0.899749739768132
+      },
+      {
+        "round": 20,
+        "task_progress_before": 0.899749739768132,
+        "conflicts": [
+          {
+            "round": 20,
+            "parties": [
+              3,
+              4
+            ],
+            "intensity": 0.2788470838522913,
+            "responses": [
+              {
+                "agent_id": 3,
+                "response_type": "analytical",
+                "stress_increase": 0.08365412515568739,
+                "cooperation_willingness": 0.45761006861758113
+              },
+              {
+                "agent_id": 4,
+                "response_type": "analytical",
+                "stress_increase": 0.08365412515568739,
+                "cooperation_willingness": 0.15374432963842766
+              }
+            ],
+            "resolution": {
+              "leader_id": 0,
+              "resolution_time": 0.5,
+              "effectiveness": 0.9163458748443125,
+              "approach": "authoritative",
+              "conflict_parties": [
+                3,
+                4
+              ],
+              "conflict_intensity": 0.2788470838522913
+            },
+            "new_conflict_level": 0.0
+          }
+        ],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.32533868199442567,
+            "type": "innovation",
+            "timestamp": 20
+          },
+          {
+            "agent_id": 3,
+            "quality": 0.2558362733686075,
+            "type": "improvement",
+            "timestamp": 20
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 0.9962673877161367,
+            "decision_time": 0.7728883436957981,
+            "consensus_level": 0.988947681266694,
+            "timestamp": 20,
+            "context_factors": {
+              "round": 20,
+              "progress": 0.899749739768132,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.9801625106220905,
+          "2": 0.9801625106220905,
+          "3": 0.8846715691084761,
+          "4": 1
+        },
+        "trust_levels": {
+          "1": 0.9557907250667759,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.45873580622673144,
+          "1": 0.8875346775314523,
+          "2": 0.6662748089168404,
+          "3": 0.5423899313824189,
+          "4": 0.8462556703615723
+        },
+        "random_events": [],
+        "task_progress_after": 0.929891829771028
+      },
+      {
+        "round": 21,
+        "task_progress_before": 0.929891829771028,
+        "conflicts": [],
+        "ideas_generated": [
+          {
+            "agent_id": 2,
+            "quality": 0.8034278880741725,
+            "type": "innovation",
+            "timestamp": 21
+          },
+          {
+            "agent_id": 4,
+            "quality": 0.266150065186359,
+            "type": "improvement",
+            "timestamp": 21
+          }
+        ],
+        "communications": [
+          {
+            "from": 0,
+            "to": 1,
+            "effectiveness": 0.7278953625333883,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 2,
+            "effectiveness": 0.765138069362016,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 3,
+            "effectiveness": 0.8283283083937023,
+            "tone": "directive",
+            "type": "task_update"
+          },
+          {
+            "from": 0,
+            "to": 4,
+            "effectiveness": 0.829562269479839,
+            "tone": "directive",
+            "type": "task_update"
+          }
+        ],
+        "decisions": [
+          {
+            "leader_id": 0,
+            "decision_quality": 1.0,
+            "decision_time": 0.5676844087097211,
+            "consensus_level": 0.9946450653300287,
+            "timestamp": 21,
+            "context_factors": {
+              "round": 21,
+              "progress": 0.929891829771028,
+              "team_inputs": 4
+            }
+          }
+        ],
+        "satisfaction_levels": {
+          "0": 0.8999999999999999,
+          "1": 0.9848380209406216,
+          "2": 0.9848380209406216,
+          "3": 0.8866416443351758,
+          "4": 1
+        },
+        "trust_levels": {
+          "1": 0.9785802613201147,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "stress_levels": {
+          "0": 0.45873580622673144,
+          "1": 0.8875346775314523,
+          "2": 0.6662748089168404,
+          "3": 0.5423899313824189,
+          "4": 0.8462556703615723
+        },
+        "random_events": [
+          {
+            "type": "breakthrough",
+            "description": "获得突破性进展",
+            "impact": 0.0894574560328712,
+            "round": 21
+          }
+        ],
+        "task_progress_after": 0.9598500927321408
+      }
+    ],
+    "final_metrics": {
+      "task_efficiency": 0.047619047619047616,
+      "rework_ratio": 0.0,
+      "avg_satisfaction": 0.8005780722364148,
+      "satisfaction_trend": [
+        0.5993043621841061,
+        0.6425558810484426,
+        0.6634332077704082,
+        0.6754324237195816,
+        0.7537707761436737,
+        0.7490504142977582,
+        0.7509335340505081,
+        0.755455231370221,
+        0.7611288308852746,
+        0.8290138777389233,
+        0.8203717102350765,
+        0.8210131479368175,
+        0.8253497050069335,
+        0.831197831163329,
+        0.8376315978330382,
+        0.8443185241700737,
+        0.9035791383834129,
+        0.8969089665751666,
+        0.951427501138151,
+        0.9489993180705314,
+        0.9512635372432838
+      ],
+      "conflict_count": 4,
+      "avg_conflict_intensity": 0.42670272145742183,
+      "total_ideas": 55,
+      "avg_idea_quality": 0.49909160137891456,
+      "adoption_rate": 0.8909090909090909,
+      "leader_influence": 0.9946450653300287,
+      "team_cohesion": 0.9208001292484056
+    },
+    "task_completion": {
+      "progress": 1.0,
+      "quality": 0.9563125167749675,
+      "revisions_needed": 0,
+      "completion_round": 21
+    }
+  },
+  "comparison_data": {
+    "task_efficiency": {
+      "infp": 0.047619047619047616,
+      "estp": 0.047619047619047616,
+      "difference": 0.0,
+      "relative_change": 0.0
+    },
+    "rework_ratio": {
+      "infp": 0.0,
+      "estp": 0.0,
+      "difference": 0.0,
+      "relative_change": 0.0
+    },
+    "avg_satisfaction": {
+      "infp": 0.7696963744531191,
+      "estp": 0.8005780722364148,
+      "difference": 0.030881697783295636,
+      "relative_change": 4.012192184903761
+    },
+    "conflict_count": {
+      "infp": 1,
+      "estp": 4,
+      "difference": 3,
+      "relative_change": 300.0
+    },
+    "avg_conflict_intensity": {
+      "infp": 0.35912024885024085,
+      "estp": 0.42670272145742183,
+      "difference": 0.06758247260718098,
+      "relative_change": 18.818897799150278
+    },
+    "total_ideas": {
+      "infp": 64,
+      "estp": 55,
+      "difference": -9,
+      "relative_change": -14.0625
+    },
+    "avg_idea_quality": {
+      "infp": 0.45738071957452103,
+      "estp": 0.49909160137891456,
+      "difference": 0.04171088180439353,
+      "relative_change": 9.119510294005206
+    },
+    "adoption_rate": {
+      "infp": 0.75,
+      "estp": 0.8909090909090909,
+      "difference": 0.14090909090909087,
+      "relative_change": 18.787878787878785
+    },
+    "leader_influence": {
+      "infp": 1.0,
+      "estp": 0.9946450653300287,
+      "difference": -0.0053549346699712785,
+      "relative_change": -0.5354934669971279
+    },
+    "team_cohesion": {
+      "infp": 0.8642137927508738,
+      "estp": 0.9208001292484056,
+      "difference": 0.05658633649753175,
+      "relative_change": 6.54772429833735
+    },
+    "overall_performance": {
+      "infp_score": 0.6113418768116252,
+      "estp_score": 0.6405701738889936,
+      "winner": "ESTP",
+      "score_difference": 0.029228297077368404
+    }
+  }
+}
